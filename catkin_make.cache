@@ -1,0 +1,2 @@
+realsense/realsense2_camera:realsense/realsense2_description
+-DCATKIN_DEVEL_PREFIX=/home/sambot/DANIEL_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sambot/DANIEL_ws/install -G Unix Makefiles
